@@ -2,7 +2,7 @@
 Summary:	A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 Name:		js-%{plugin}
 Version:	1.4.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://github.com/scottjehl/Respond/archive/%{version}/%{plugin}-%{version}.tar.gz
